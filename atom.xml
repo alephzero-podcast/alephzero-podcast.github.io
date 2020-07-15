@@ -16,7 +16,7 @@
             <itunes:name>Aleph Zero</itunes:name>
             <itunes:email>ribbedcrown@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://PODCAST IMAGE.jpg"/>
+        <itunes:image href="https://alephzero-podcast.github.io/image.jpg"/>
         <itunes:category text="Music"></itunes:category>
         <item>
             <title>Aleph Zero Podcast - AZ001</title>
