@@ -4,9 +4,9 @@
         <link>https://t.me/alephzero</link>
         <language>en</language>
         <description>Opinionated techno music.</description>
-        <atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://alephzero-podcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <copyright>All rights reserved</copyright>
-        <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
+        <itunes:subtitle>Techno music podcast.</itunes:subtitle>
         <itunes:author>Aleph Zero</itunes:author>
         <itunes:summary>
             Techno music podcast.
@@ -17,7 +17,7 @@
             <itunes:email>ribbedcrown@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://PODCAST IMAGE.jpg"/>
-        <itunes:category text="Music"/>
+        <itunes:category text="Music"></itunes:category>
         <item>
             <title>Aleph Zero Podcast - AZ001</title>
             <link>https://soundcloud.com/negative-curvature/aleph-zero-podcast-001</link>
