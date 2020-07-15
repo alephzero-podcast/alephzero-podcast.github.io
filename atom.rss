@@ -16,25 +16,30 @@
             <itunes:name>Aleph Zero</itunes:name>
             <itunes:email>ribbedcrown@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://alephzero-podcast.github.io/image.jpg"/>
+        <itunes:image href="https://alephzero-podcast.github.io/poster.png"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:category text="Music"></itunes:category>
         <item>
-            <title>Aleph Zero Podcast - AZ001</title>
+            <title>Negative Curvature - Aleph Zero Podcast - AZ001</title>
             <link>https://soundcloud.com/negative-curvature/aleph-zero-podcast-001</link>
+            <itunes:title>Negative Curvature - Aleph Zero Podcast - AZ001</itunes:duration>
             <itunes:author>Aleph Zero</itunes:author>
             <itunes:subtitle>Techno music podcast.</itunes:subtitle>
             <itunes:summary>Techno music podcast.</itunes:summary>
             <description>Techno music podcast.</description>
             <itunes:image href="https://alephzero-podcast.github.io/data/az001/cover.png"/>
-            <enclosure url="https://alephzero-podcast.github.io/data/az001/Negative_Curvature_-_Aleph_Zero_Podcast_-_AZ001.mp3" length="LENGTH" type="audio/mpeg"/>
+            <enclosure url="https://alephzero-podcast.github.io/data/az001/Negative_Curvature_-_Aleph_Zero_Podcast_-_AZ001.mp3" length="86550067" type="audio/mpeg"/>
             <itunes:duration>00:59:56</itunes:duration>
+            <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <guid isPermaLink="false">
                 https://alephzero-podcast.github.io/data/az001/Negative_Curvature_-_Aleph_Zero_Podcast_-_AZ001.mp3
             </guid>
             <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
             <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+            <![CDATA[<p><small>Visit <a href="https://t.me/alephzero">Telegram Channel</a> to stay in tune of our news.</small></p>]]>
+            </content:encoded>
         </item>
     </channel>
 </rss>
