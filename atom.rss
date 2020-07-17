@@ -27,8 +27,11 @@
             <itunes:subtitle>Techno music podcast.</itunes:subtitle>
             <itunes:summary>Techno music podcast.</itunes:summary>
             <description>Techno music podcast.</description>
+            <content:encoded>
+            <![CDATA[<p><small>Visit <a href="https://t.me/alephzero">Telegram Channel</a> to stay in tune of our news.</small></p>]]>
+            </content:encoded>
             <itunes:image href="https://alephzero-podcast.github.io/data/az001/cover.png"/>
-            <enclosure url="https://alephzero-podcast.github.io/data/az001/Negative_Curvature_-_Aleph_Zero_Podcast_-_AZ001.mp3" length="86550067" type="audio/mpeg"/>
+            <enclosure url="https://alephzero-podcast.github.io/data/az001/Negative_Curvature_-_Aleph_Zero_Podcast_-_AZ001.mp3" length="87668195" type="audio/mpeg"/>
             <itunes:duration>00:59:56</itunes:duration>
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
@@ -37,9 +40,6 @@
             </guid>
             <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
             <itunes:explicit>no</itunes:explicit>
-            <content:encoded>
-            <![CDATA[<p><small>Visit <a href="https://t.me/alephzero">Telegram Channel</a> to stay in tune of our news.</small></p>]]>
-            </content:encoded>
         </item>
     </channel>
 </rss>
